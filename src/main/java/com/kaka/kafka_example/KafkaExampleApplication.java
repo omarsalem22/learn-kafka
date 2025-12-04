@@ -1,4 +1,4 @@
-package com.example.kafka_example;
+package com.kaka.kafka_example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,6 @@ public class KafkaExampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(KafkaExampleApplication.class, args);
 	}
+
 
 }
